@@ -1,4 +1,4 @@
-### Yooooooooooooo! Welcome to The Codes and Dragons :metal:
+### Yooooooooooooo! Welcome to _The Codes and Dragons :metal:_
 
 <!--
 **konkah/konkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
