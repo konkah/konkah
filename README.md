@@ -67,7 +67,8 @@
 <details>
   <summary >⚡ Github Stats ⚡</summary>
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=konkah&theme=dark&count_private=true&hide_border=true&line_height=20)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=konkah&theme=dark&count_private=true&hide_border=true&line_height=20&show_icons=true&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konkah&layout=compact&theme=dark&count_private=true&hide_border=true&hide=java)
 </details>
 
 ---
